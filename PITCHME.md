@@ -1,30 +1,30 @@
 #Hello Ladies & Gentlemen
 -----
 
-wooooooo|
-laaalalalalalla|
+-wooooooo|
+-laaalalalalalla|
 
 
 --------
 
 
-#It's Minion
+It's Minion
 ------
 
-#How are You?
+How are You?
 -------
 
-#Where are you?
+Where are you?
 
 
 ------
 
 
-#I am waiting for your reply.........
+I am waiting for your reply.........
 
 
 ------
 
 
 
-#bye--bye
+bye--bye
