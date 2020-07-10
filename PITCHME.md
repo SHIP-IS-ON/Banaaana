@@ -1,8 +1,4 @@
 Banaaana
-
-
-
-
 Hello Ladies & Gentlemen
 -----
 
